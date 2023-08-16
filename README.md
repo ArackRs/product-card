@@ -1,3 +1,3 @@
 # Challenge 2
 ## Preview of the site
-Link of the solution: https://challengesfrontendmentor.github.io/Challenge2/
+Link of the solution: [ProductCard](https://challengesfrontendmentor.github.io/ProductCard/)
